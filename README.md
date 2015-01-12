@@ -1,7 +1,9 @@
 # shotwatch
 testing ground for basketball data from nba.com
 
-``$ run npm install`` 
+run 
+
+``$ npm install`` 
 
 ``$ nodemon on simple-server.js`` 
 
